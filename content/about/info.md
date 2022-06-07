@@ -11,7 +11,7 @@ contact_info:
 type: ''
 
 ---
-## TBATUS 
+## TBATUS
 
 ## s made with [Forestry](https://forestry.io/ "Forestry.io") & [Hugo](https://gohugo.io/ "Hugo SSG").
 
